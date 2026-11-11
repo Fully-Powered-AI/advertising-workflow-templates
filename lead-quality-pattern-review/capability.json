@@ -1,0 +1,48 @@
+{
+  "id": "lead-quality-pattern-review",
+  "name": "Lead quality pattern review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When sales feedback or results raise a lead-quality concern, the acquisition lead gets a review of leads and their outcomes by source, page, location, device and timing, with cases to verify with sales and possible measurement faults listed.",
+  "directory": "https://fullypowered.ai/capabilities/lead-quality-pattern-review/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation",
+    "functions/analytics-and-reporting",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/software-technology",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "lead-form-field-review",
+    "metric-definition-reconciliation",
+    "tracking-event-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of advertising and lead generation work, and its own method for splitting leads and their outcomes into segments, flagging those well below the overall share, and handing cases to sales to verify."
+    }
+  ]
+}

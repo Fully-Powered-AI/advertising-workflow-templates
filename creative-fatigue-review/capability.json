@@ -1,0 +1,48 @@
+{
+  "id": "creative-fatigue-review",
+  "name": "Creative fatigue review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a campaign's reach or response pattern prompts a creative review, the paid media lead gets frequency and response set against the campaign's own baseline, by creative and audience, with other explanations marked and options to test.",
+  "directory": "https://fullypowered.ai/capabilities/creative-fatigue-review/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation",
+    "functions/marketing-and-content",
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "creative-test-evidence-review",
+    "client-campaign-performance-report",
+    "inherited-campaign-audit"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for reviewing a campaign's creative against its baseline: the fixed inputs, the baseline and review windows, the comparison by creative and audience, the rules that mark tracking changes, short runs and mixed audiences as other explanations, and the options to test."
+    }
+  ]
+}

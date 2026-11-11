@@ -1,0 +1,47 @@
+{
+  "id": "campaign-audience-check",
+  "name": "Campaign audience check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When an audience export is ready for review, the campaign owner gets it segmented with reconciled counts, the exclusions applied and the records whose contact status needs checking, with conflicts, stale records and duplicates kept visible.",
+  "directory": "https://fullypowered.ai/capabilities/campaign-audience-check/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "lapsed-customer-win-back",
+    "prospect-list-by-role-and-firm-type",
+    "campaign-build-sheet"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for checking a campaign audience before it is approved: the fixed inputs, the order in which each record is classified, the segment rules, the exclusions, the reasons a record needs checking, and the reconciliation of the counts."
+    }
+  ]
+}

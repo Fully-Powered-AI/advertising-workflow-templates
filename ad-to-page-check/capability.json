@@ -1,0 +1,47 @@
+{
+  "id": "ad-to-page-check",
+  "name": "Ad to page check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a campaign's landing page is ready for a prelaunch check, the acquisition owner gets a findings list that sets each ad beside the captured page: message, offer details, form and next step, on mobile and desktop. Page states nobody captured are marked unknown.",
+  "directory": "https://fullypowered.ai/capabilities/ad-to-page-check/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation",
+    "functions/marketing-and-content",
+    "functions/design-and-user-experience"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/ecommerce-and-retail",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "campaign-build-sheet",
+    "lead-form-field-review",
+    "campaign-claim-evidence-register"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of advertising and lead generation work, and its own method for comparing a campaign's ads with the captured landing page before launch."
+    }
+  ]
+}

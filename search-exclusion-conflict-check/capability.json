@@ -1,0 +1,45 @@
+{
+  "id": "search-exclusion-conflict-check",
+  "name": "Search exclusion conflict check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The paid search specialist gets a list of live keywords that a live exclusion may be blocking, each with the level where the exclusion applies and the campaign intent it touches. They are clues from the text; the specialist decides what to change.",
+  "directory": "https://fullypowered.ai/capabilities/search-exclusion-conflict-check/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "inherited-campaign-audit",
+    "client-campaign-performance-report",
+    "campaign-claim-evidence-register"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of advertising and lead-generation work, and its own method for checking keyword and exclusion lists against each other."
+    }
+  ]
+}

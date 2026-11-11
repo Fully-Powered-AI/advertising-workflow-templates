@@ -1,0 +1,46 @@
+{
+  "id": "campaign-build-sheet",
+  "name": "Campaign build sheet",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When an approved campaign brief is ready to become a setup specification, the campaign operator gets one build sheet: names, audiences, exclusions, destinations, budgets and measurement fields, with every unresolved setting and missing asset marked as a gap. Nothing is built or spent.",
+  "directory": "https://fullypowered.ai/capabilities/campaign-build-sheet/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "creator-campaign-plan",
+    "ninety-day-marketing-plan",
+    "launch-checklist"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of advertising and lead generation work, and its own method for turning an approved brief into a reviewable setup sheet."
+    }
+  ]
+}
