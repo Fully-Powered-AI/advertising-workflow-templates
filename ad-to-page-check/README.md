@@ -2,7 +2,7 @@
 
 When a campaign's landing page is ready for a prelaunch check, the acquisition owner gets a findings list that sets each ad beside the captured page: message, offer details, form and next step, on mobile and desktop. Page states nobody captured are marked unknown.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/ad-to-page-check/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ad-to-page-check/)*
 
 ## The outcome
 
@@ -87,8 +87,8 @@ Testing in your environment means running it on a campaign whose page you alread
 ## Related workflow templates
 
 - [Campaign build sheet](../campaign-build-sheet/)
-- [Lead form field review](https://fullypowered.ai/workflow templates/lead-form-field-review/)
-- [Campaign claim evidence register](https://fullypowered.ai/workflow templates/campaign-claim-evidence-register/)
+- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)
+- [Campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)
 
 ## Make it yours
 

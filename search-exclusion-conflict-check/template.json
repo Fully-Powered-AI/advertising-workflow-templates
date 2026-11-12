@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The paid search specialist gets a list of live keywords that a live exclusion may be blocking, each with the level where the exclusion applies and the campaign intent it touches. They are clues from the text; the specialist decides what to change.",
-  "directory": "https://fullypowered.ai/workflow templates/search-exclusion-conflict-check/",
+  "directory": "https://fullypowered.ai/workflows/search-exclusion-conflict-check/",
   "primary_function": "functions/advertising-and-lead-generation",
   "functions": [
     "functions/advertising-and-lead-generation"

@@ -2,7 +2,7 @@
 
 When an approved campaign brief is ready to become a setup specification, the campaign operator gets one build sheet: names, audiences, exclusions, destinations, budgets and measurement fields, with every unresolved setting and missing asset marked as a gap. Nothing is built or spent.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/campaign-build-sheet/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-build-sheet/)*
 
 ## The outcome
 
@@ -87,9 +87,9 @@ Testing in your environment means running it on a campaign your operator has alr
 
 ## Related workflow templates
 
-- [Creator campaign plan](https://fullypowered.ai/workflow templates/creator-campaign-plan/)
-- [Ninety-day marketing plan](https://fullypowered.ai/workflow templates/ninety-day-marketing-plan/)
-- [Launch checklist](https://fullypowered.ai/workflow templates/launch-checklist/)
+- [Creator campaign plan](https://fullypowered.ai/workflows/creator-campaign-plan/)
+- [Ninety-day marketing plan](https://fullypowered.ai/workflows/ninety-day-marketing-plan/)
+- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/)
 
 ## Make it yours
 

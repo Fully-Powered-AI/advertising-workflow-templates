@@ -2,7 +2,7 @@
 
 When an audience export is ready for review, the campaign owner gets it segmented with reconciled counts, the exclusions applied and the records whose contact status needs checking, with conflicts, stale records and duplicates kept visible.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/campaign-audience-check/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-audience-check/)*
 
 ## The outcome
 
@@ -78,8 +78,8 @@ Testing in your environment means running it on a past audience whose problems y
 
 ## Related workflow templates
 
-- [Lapsed-customer win-back](https://fullypowered.ai/workflow templates/lapsed-customer-win-back/)
-- [Prospect list by role and firm type](https://fullypowered.ai/workflow templates/prospect-list-by-role-and-firm-type/)
+- [Lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/)
+- [Prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/)
 - [Campaign build sheet](../campaign-build-sheet/)
 
 ## Make it yours

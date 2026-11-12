@@ -2,7 +2,7 @@
 
 When sales feedback or results raise a lead-quality concern, the acquisition lead gets a review of leads and their outcomes by source, page, location, device and timing, with cases to verify with sales and possible measurement faults listed.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/lead-quality-pattern-review/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-quality-pattern-review/)*
 
 ## The outcome
 
@@ -86,9 +86,9 @@ Testing in your environment means running it on a past period your acquisition l
 
 ## Related workflow templates
 
-- [Lead form field review](https://fullypowered.ai/workflow templates/lead-form-field-review/)
-- [Metric definition reconciliation](https://fullypowered.ai/workflow templates/metric-definition-reconciliation/)
-- [Tracking event plan](https://fullypowered.ai/workflow templates/tracking-event-plan/)
+- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)
+- [Metric definition reconciliation](https://fullypowered.ai/workflows/metric-definition-reconciliation/)
+- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/)
 
 ## Make it yours
 

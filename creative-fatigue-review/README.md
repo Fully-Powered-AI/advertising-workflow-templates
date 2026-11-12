@@ -2,7 +2,7 @@
 
 When a campaign's reach or response pattern prompts a creative review, the paid media lead gets frequency and response set against the campaign's own baseline, by creative and audience, with other explanations marked and options to test.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creative-fatigue-review/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-fatigue-review/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your environment means running it on a past campaign whose story you 
 
 ## Related workflow templates
 
-- [Creative test evidence review](https://fullypowered.ai/workflow templates/creative-test-evidence-review/)
-- [Client campaign performance report](https://fullypowered.ai/workflow templates/client-campaign-performance-report/)
-- [Inherited campaign audit](https://fullypowered.ai/workflow templates/inherited-campaign-audit/)
+- [Creative test evidence review](https://fullypowered.ai/workflows/creative-test-evidence-review/)
+- [Client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/)
+- [Inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)
 
 ## Make it yours
 

@@ -9,7 +9,7 @@
       "version": "0.1.0",
       "summary": "When a campaign's landing page is ready for a prelaunch check, the acquisition owner gets a findings list that sets each ad beside the captured page: message, offer details, form and next step, on mobile and desktop. Page states nobody captured are marked unknown.",
       "path": "ad-to-page-check/",
-      "directory": "https://fullypowered.ai/workflow templates/ad-to-page-check/"
+      "directory": "https://fullypowered.ai/workflows/ad-to-page-check/"
     },
     {
       "id": "campaign-audience-check",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "When an audience export is ready for review, the campaign owner gets it segmented with reconciled counts, the exclusions applied and the records whose contact status needs checking, with conflicts, stale records and duplicates kept visible.",
       "path": "campaign-audience-check/",
-      "directory": "https://fullypowered.ai/workflow templates/campaign-audience-check/"
+      "directory": "https://fullypowered.ai/workflows/campaign-audience-check/"
     },
     {
       "id": "campaign-build-sheet",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "When an approved campaign brief is ready to become a setup specification, the campaign operator gets one build sheet: names, audiences, exclusions, destinations, budgets and measurement fields, with every unresolved setting and missing asset marked as a gap. Nothing is built or spent.",
       "path": "campaign-build-sheet/",
-      "directory": "https://fullypowered.ai/workflow templates/campaign-build-sheet/"
+      "directory": "https://fullypowered.ai/workflows/campaign-build-sheet/"
     },
     {
       "id": "creative-fatigue-review",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "When a campaign's reach or response pattern prompts a creative review, the paid media lead gets frequency and response set against the campaign's own baseline, by creative and audience, with other explanations marked and options to test.",
       "path": "creative-fatigue-review/",
-      "directory": "https://fullypowered.ai/workflow templates/creative-fatigue-review/"
+      "directory": "https://fullypowered.ai/workflows/creative-fatigue-review/"
     },
     {
       "id": "lead-quality-pattern-review",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "When sales feedback or results raise a lead-quality concern, the acquisition lead gets a review of leads and their outcomes by source, page, location, device and timing, with cases to verify with sales and possible measurement faults listed.",
       "path": "lead-quality-pattern-review/",
-      "directory": "https://fullypowered.ai/workflow templates/lead-quality-pattern-review/"
+      "directory": "https://fullypowered.ai/workflows/lead-quality-pattern-review/"
     },
     {
       "id": "search-exclusion-conflict-check",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "The paid search specialist gets a list of live keywords that a live exclusion may be blocking, each with the level where the exclusion applies and the campaign intent it touches. They are clues from the text; the specialist decides what to change.",
       "path": "search-exclusion-conflict-check/",
-      "directory": "https://fullypowered.ai/workflow templates/search-exclusion-conflict-check/"
+      "directory": "https://fullypowered.ai/workflows/search-exclusion-conflict-check/"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 The paid search specialist gets a list of live keywords that a live exclusion may be blocking, each with the level where the exclusion applies and the campaign intent it touches. They are clues from the text; the specialist decides what to change.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/search-exclusion-conflict-check/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/search-exclusion-conflict-check/)*
 
 ## The outcome
 
@@ -86,9 +86,9 @@ Testing in your environment means running it on an account your specialist knows
 
 ## Related workflow templates
 
-- [Inherited campaign audit](https://fullypowered.ai/workflow templates/inherited-campaign-audit/)
-- [Client campaign performance report](https://fullypowered.ai/workflow templates/client-campaign-performance-report/)
-- [Campaign claim evidence register](https://fullypowered.ai/workflow templates/campaign-claim-evidence-register/)
+- [Inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)
+- [Client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/)
+- [Campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)
 
 ## Make it yours
 
