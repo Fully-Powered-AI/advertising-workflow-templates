@@ -2,11 +2,11 @@
 
 When a campaign's landing page is ready for a prelaunch check, the acquisition owner gets a findings list that sets each ad beside the captured page: message, offer details, form and next step, on mobile and desktop. Page states nobody captured are marked unknown.
 
-*Capability template · Advertising and lead generation · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/ad-to-page-check/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/ad-to-page-check/)*
 
 ## The outcome
 
-A visitor clicks an ad, lands on a page and either finds what the ad promised or does not. This capability template puts the ad and the page side by side before the campaign goes live, so the acquisition owner sees the gaps while they are still cheap to close.
+A visitor clicks an ad, lands on a page and either finds what the ad promised or does not. This workflow template puts the ad and the page side by side before the campaign goes live, so the acquisition owner sees the gaps while they are still cheap to close.
 
 For every ad, the check compares four things on the page as captured: whether the page is about what the ad is about, whether each offer detail matches your approved offer terms, how much the form asks of the visitor, and whether the next step the ad names is the next step the page offers. It does this separately for the desktop and mobile captures.
 
@@ -25,7 +25,7 @@ The page owner answers for the page and supplies the capture. Whoever owns the o
 - **The approved offer terms:** each offer item, its approved value, any conditions and the date the term ends.
 - **The page capture,** one row per element on the page, for each state: desktop, mobile and, where you have them, the form's error state and the confirmation after submitting.
 
-Nothing is opened or connected. The capability never asks for a password, a login code or a key.
+Nothing is opened or connected. The workflow template never asks for a password, a login code or a key.
 
 ## What comes out
 
@@ -45,7 +45,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Software and technology](https://fullypowered.ai/industries/software-technology/), where trial and sign-up pages carry the offer.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when campaigns multiply faster than anyone can click through each one.
 
-It does not set the campaign up ([campaign build sheet](https://fullypowered.ai/capabilities/campaign-build-sheet/)), review each form field's purpose ([lead form field review](https://fullypowered.ai/capabilities/lead-form-field-review/)) or tie each claim to its evidence ([campaign claim evidence register](https://fullypowered.ai/capabilities/campaign-claim-evidence-register/)). It compares the ad with the page and stops there. It is also not the audit of a campaign taken over from someone else ([inherited campaign audit](https://fullypowered.ai/capabilities/inherited-campaign-audit/)); this check comes before launch, on ads and a page you are about to switch on.
+It does not set the campaign up ([campaign build sheet](https://fullypowered.ai/workflows/campaign-build-sheet/)), review each form field's purpose ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)) or tie each claim to its evidence ([campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)). It compares the ad with the page and stops there. It is also not the audit of a campaign taken over from someone else ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)); this check comes before launch, on ads and a page you are about to switch on.
 
 ## What has to change for your company
 
@@ -57,9 +57,9 @@ It does not set the campaign up ([campaign build sheet](https://fullypowered.ai/
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record is published with it. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record is published with it. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a campaign whose page you already know, with cases written in advance: a price that differs between ad and page, a delivery term that ends before launch, a mobile view that drops an offer, a form with more fields than your limit, a state nobody captured. The acquisition owner checks every finding against the live page before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a campaign whose page you already know, with cases written in advance: a price that differs between ad and page, a delivery term that ends before launch, a mobile view that drops an offer, a form with more fields than your limit, a state nobody captured. The acquisition owner checks every finding against the live page before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -70,11 +70,11 @@ Testing in your environment means running it on a campaign whose page you alread
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -84,12 +84,12 @@ Testing in your environment means running it on a campaign whose page you alread
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Campaign build sheet](../campaign-build-sheet/)
-- [Lead form field review](https://fullypowered.ai/capabilities/lead-form-field-review/)
-- [Campaign claim evidence register](https://fullypowered.ai/capabilities/campaign-claim-evidence-register/)
+- [Lead form field review](https://fullypowered.ai/workflow templates/lead-form-field-review/)
+- [Campaign claim evidence register](https://fullypowered.ai/workflow templates/campaign-claim-evidence-register/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

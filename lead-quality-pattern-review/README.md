@@ -2,7 +2,7 @@
 
 When sales feedback or results raise a lead-quality concern, the acquisition lead gets a review of leads and their outcomes by source, page, location, device and timing, with cases to verify with sales and possible measurement faults listed.
 
-*Capability template · Advertising and lead generation · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/lead-quality-pattern-review/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/lead-quality-pattern-review/)*
 
 ## The outcome
 
@@ -43,7 +43,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when budgets and channels have multiplied faster than anyone has checked them.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the same programs have run for years and nobody has looked at their outcomes lately.
 
-It is not a handover audit of someone else's campaign account ([inherited campaign audit](https://fullypowered.ai/capabilities/inherited-campaign-audit/)), a field-by-field look at a form ([lead form field review](https://fullypowered.ai/capabilities/lead-form-field-review/)), or an explanation of why two reports disagree ([metric definition reconciliation](https://fullypowered.ai/capabilities/metric-definition-reconciliation/)).
+It is not a handover audit of someone else's campaign account ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)), a field-by-field look at a form ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)), or an explanation of why two reports disagree ([metric definition reconciliation](https://fullypowered.ai/workflows/metric-definition-reconciliation/)).
 
 ## What has to change for your company
 
@@ -57,9 +57,9 @@ It is not a handover audit of someone else's campaign account ([inherited campai
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record is published with it (the run was not blind: only its arithmetic was independent); it was edited in small ways after an independent review, and those edits were not run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record is published with it (the run was not blind: only its arithmetic was independent); it was edited in small ways after an independent review, and those edits were not run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past period your acquisition lead and sales team already know well, with cases written in advance: an outcome word on no list, a segment too small to read, a lead id sales mentions that is not in the export, a repeated record. Your analyst checks every figure against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past period your acquisition lead and sales team already know well, with cases written in advance: an outcome word on no list, a segment too small to read, a lead id sales mentions that is not in the export, a repeated record. Your analyst checks every figure against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -70,11 +70,11 @@ Testing in your environment means running it on a past period your acquisition l
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -84,12 +84,12 @@ Testing in your environment means running it on a past period your acquisition l
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Lead form field review](https://fullypowered.ai/capabilities/lead-form-field-review/)
-- [Metric definition reconciliation](https://fullypowered.ai/capabilities/metric-definition-reconciliation/)
-- [Tracking event plan](https://fullypowered.ai/capabilities/tracking-event-plan/)
+- [Lead form field review](https://fullypowered.ai/workflow templates/lead-form-field-review/)
+- [Metric definition reconciliation](https://fullypowered.ai/workflow templates/metric-definition-reconciliation/)
+- [Tracking event plan](https://fullypowered.ai/workflow templates/tracking-event-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

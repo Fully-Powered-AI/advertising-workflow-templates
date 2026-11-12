@@ -1,10 +1,10 @@
 {
   "id": "ad-to-page-check",
   "name": "Ad to page check",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a campaign's landing page is ready for a prelaunch check, the acquisition owner gets a findings list that sets each ad beside the captured page: message, offer details, form and next step, on mobile and desktop. Page states nobody captured are marked unknown.",
-  "directory": "https://fullypowered.ai/capabilities/ad-to-page-check/",
+  "directory": "https://fullypowered.ai/workflow templates/ad-to-page-check/",
   "primary_function": "functions/advertising-and-lead-generation",
   "functions": [
     "functions/advertising-and-lead-generation",

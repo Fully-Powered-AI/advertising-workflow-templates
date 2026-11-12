@@ -2,7 +2,7 @@
 
 When a campaign's reach or response pattern prompts a creative review, the paid media lead gets frequency and response set against the campaign's own baseline, by creative and audience, with other explanations marked and options to test.
 
-*Capability template · Advertising and lead generation · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/creative-fatigue-review/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creative-fatigue-review/)*
 
 ## The outcome
 
@@ -41,7 +41,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when spend is rising and the same audience is reached more often.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), when an in-house team runs long-lived campaigns with a creative library that has not been refreshed on a schedule.
 
-It is not a test of which creative did better (see [creative test evidence review](https://fullypowered.ai/capabilities/creative-test-evidence-review/)) and not a report to a client ([client campaign performance report](https://fullypowered.ai/capabilities/client-campaign-performance-report/)).
+It is not a test of which creative did better (see [creative test evidence review](https://fullypowered.ai/workflows/creative-test-evidence-review/)) and not a report to a client ([client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/)).
 
 ## What has to change for your company
 
@@ -49,7 +49,7 @@ Choose the baseline window for each campaign and the length of the review window
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past campaign whose story you already know: one where a creative really did tire, one where a tracking change made response look worse, and one with a mixed audience. The media lead should recompute every figure in the table from the export before the page is relied on.
 
@@ -62,11 +62,11 @@ Testing in your environment means running it on a past campaign whose story you 
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -76,12 +76,12 @@ Testing in your environment means running it on a past campaign whose story you 
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Creative test evidence review](https://fullypowered.ai/capabilities/creative-test-evidence-review/)
-- [Client campaign performance report](https://fullypowered.ai/capabilities/client-campaign-performance-report/)
-- [Inherited campaign audit](https://fullypowered.ai/capabilities/inherited-campaign-audit/)
+- [Creative test evidence review](https://fullypowered.ai/workflow templates/creative-test-evidence-review/)
+- [Client campaign performance report](https://fullypowered.ai/workflow templates/client-campaign-performance-report/)
+- [Inherited campaign audit](https://fullypowered.ai/workflow templates/inherited-campaign-audit/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

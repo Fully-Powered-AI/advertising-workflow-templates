@@ -1,6 +1,6 @@
 # Lead quality pattern review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -24,7 +24,7 @@ Do not use it:
 - **Decides what is investigated:** the acquisition lead.
 - **Verifies cases and findings:** sales development, or whoever contacted the leads. Nothing is taken to targeting until they have.
 - **Checks measurement faults:** the tracking owner.
-- **Approves any change to targeting, budget or pages:** the acquisition lead, afterwards, outside this capability.
+- **Approves any change to targeting, budget or pages:** the acquisition lead, afterwards, outside this workflow template.
 
 ## Inputs
 

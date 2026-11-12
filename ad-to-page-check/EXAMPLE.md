@@ -1,6 +1,6 @@
 # Ad to page check: an invented example
 
-*Illustrative example with invented data.* The business, the roles, the platforms, the dates and every figure below are invented. Client Q is an invented subscription tea company preparing a spring starter box campaign. The acquisition manager ran the capability after the web developer captured the two landing pages. First come the inputs, in full, then the findings list the capability returned.
+*Illustrative example with invented data.* The business, the roles, the platforms, the dates and every figure below are invented. Client Q is an invented subscription tea company preparing a spring starter box campaign. The acquisition manager ran the workflow template after the web developer captured the two landing pages. First come the inputs, in full, then the findings list the workflow template returned.
 
 ## The inputs
 

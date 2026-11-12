@@ -2,7 +2,7 @@
 
 When an audience export is ready for review, the campaign owner gets it segmented with reconciled counts, the exclusions applied and the records whose contact status needs checking, with conflicts, stale records and duplicates kept visible.
 
-*Capability template · Advertising and lead generation · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/campaign-audience-check/)*
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/campaign-audience-check/)*
 
 ## The outcome
 
@@ -41,15 +41,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the list is growing faster than anyone can keep track of it.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), when years of imports have left a list nobody fully trusts.
 
-It does not choose who to win back ([lapsed-customer win-back](https://fullypowered.ai/capabilities/lapsed-customer-win-back/)), build a list of prospects ([prospect list by role and firm type](https://fullypowered.ai/capabilities/prospect-list-by-role-and-firm-type/)) or set up the campaign itself ([campaign build sheet](https://fullypowered.ai/capabilities/campaign-build-sheet/)). It starts when a list already exists and ends with a checked audience.
+It does not choose who to win back ([lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/)), build a list of prospects ([prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/)) or set up the campaign itself ([campaign build sheet](https://fullypowered.ai/workflows/campaign-build-sheet/)). It starts when a list already exists and ends with a checked audience.
 
 ## What has to change for your company
 
-Name the permission statuses your records use, and say which count as permitted and which as excluded; a status left in neither list is held back for a question. Decide how old a permission record can be before it is looked at again, and how many soft bounces in what period call for a check. Write your segments as rules on the columns your export holds, in priority order. Agree who answers for record questions and who approves the final audience. If a rule about permission applies to your campaign, your own advisers set it; the capability template only applies the statuses you give it.
+Name the permission statuses your records use, and say which count as permitted and which as excluded; a status left in neither list is held back for a question. Decide how old a permission record can be before it is looked at again, and how many soft bounces in what period call for a check. Write your segments as rules on the columns your export holds, in priority order. Agree who answers for record questions and who approves the final audience. If a rule about permission applies to your campaign, your own advisers set it; the workflow template only applies the statuses you give it.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past audience whose problems you already know: a record with two disagreeing preferences, an address held twice, a permission record years old, and an address that bounced. The steward should recompute every count from the export before the page is relied on.
 
@@ -62,11 +62,11 @@ Testing in your environment means running it on a past audience whose problems y
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -76,12 +76,12 @@ Testing in your environment means running it on a past audience whose problems y
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Lapsed-customer win-back](https://fullypowered.ai/capabilities/lapsed-customer-win-back/)
-- [Prospect list by role and firm type](https://fullypowered.ai/capabilities/prospect-list-by-role-and-firm-type/)
+- [Lapsed-customer win-back](https://fullypowered.ai/workflow templates/lapsed-customer-win-back/)
+- [Prospect list by role and firm type](https://fullypowered.ai/workflow templates/prospect-list-by-role-and-firm-type/)
 - [Campaign build sheet](../campaign-build-sheet/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

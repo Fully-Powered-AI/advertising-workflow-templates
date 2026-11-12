@@ -106,7 +106,7 @@ Audience approved by: ____________ Date: __________
 - **Differences from the example, all in wording or order.**
   - The order of the entries under Records to check. The template does not say how to order them. This run followed the template's own order of reasons; the example orders them by lowest record number. The same nine records fall into seven entries either way.
   - The two records with no usable permission (R09 and R18) are separate entries in both, though the template does not say whether records with the same reason are one entry or several.
-  - The question for R18. The example asks whether pending "should count as permitted"; this run only asked what pending means, because the template says the capability must not suggest which statuses count as permitted.
+  - The question for R18. The example asks whether pending "should count as permitted"; this run only asked what pending means, because the template says it must not suggest which statuses count as permitted.
   - This run named the record ids inside the segment lines and listed the repeat that was collapsed (R20); the example does not.
   - Minor wording in the facts lines.
 - **Where the instructions needed a guess.**

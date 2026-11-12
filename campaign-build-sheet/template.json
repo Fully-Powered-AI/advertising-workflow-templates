@@ -1,10 +1,10 @@
 {
   "id": "campaign-build-sheet",
   "name": "Campaign build sheet",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When an approved campaign brief is ready to become a setup specification, the campaign operator gets one build sheet: names, audiences, exclusions, destinations, budgets and measurement fields, with every unresolved setting and missing asset marked as a gap. Nothing is built or spent.",
-  "directory": "https://fullypowered.ai/capabilities/campaign-build-sheet/",
+  "directory": "https://fullypowered.ai/workflow templates/campaign-build-sheet/",
   "primary_function": "functions/advertising-and-lead-generation",
   "functions": [
     "functions/advertising-and-lead-generation",

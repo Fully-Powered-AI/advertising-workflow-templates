@@ -1,10 +1,10 @@
 {
   "id": "creative-fatigue-review",
   "name": "Creative fatigue review",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a campaign's reach or response pattern prompts a creative review, the paid media lead gets frequency and response set against the campaign's own baseline, by creative and audience, with other explanations marked and options to test.",
-  "directory": "https://fullypowered.ai/capabilities/creative-fatigue-review/",
+  "directory": "https://fullypowered.ai/workflow templates/creative-fatigue-review/",
   "primary_function": "functions/advertising-and-lead-generation",
   "functions": [
     "functions/advertising-and-lead-generation",

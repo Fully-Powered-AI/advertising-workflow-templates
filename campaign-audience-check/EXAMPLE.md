@@ -1,6 +1,6 @@
 # Campaign audience check: an invented example
 
-*Illustrative example with invented data.* The company, the people, the addresses (all on the reserved .example domain), the dates and the counts below are invented. Shop R is an invented online seller of homeware to cafes, hotels and small businesses. Its campaign owner has an audience export for a winter offers email and ran the check, with the customer-data steward answering questions about records. First come the inputs the campaign owner supplied, in full, then the page the capability returned.
+*Illustrative example with invented data.* The company, the people, the addresses (all on the reserved .example domain), the dates and the counts below are invented. Shop R is an invented online seller of homeware to cafes, hotels and small businesses. Its campaign owner has an audience export for a winter offers email and ran the check, with the customer-data steward answering questions about records. First come the inputs the campaign owner supplied, in full, then the page the workflow template returned.
 
 ## The inputs
 
@@ -105,7 +105,7 @@ ola@oak-o.example
 zed@zone-z.example
 ```
 
-## The page the capability returned
+## The page the workflow template returned
 
 **CAMPAIGN AUDIENCE CHECK: Winter homeware offers email, Winter offers audience, as of 2026-11-10. Status: complete**
 
