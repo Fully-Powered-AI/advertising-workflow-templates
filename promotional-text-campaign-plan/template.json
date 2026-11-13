@@ -1,0 +1,48 @@
+{
+  "id": "promotional-text-campaign-plan",
+  "name": "Promotional text campaign plan",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before a promotional text campaign goes out, the marketing lead gets one plan: draft messages built only from the approved offer, the eligible audience as your own consent records define it, how often each person would be texted, the opt-out path and every open question. A person approves and sends.",
+  "directory": "https://fullypowered.ai/workflows/promotional-text-campaign-plan/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands",
+    "industries/hospitality",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "campaign-audience-check",
+    "email-sequence-drafting",
+    "lapsed-customer-win-back"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for planning a promotional text campaign for approval: the fixed inputs, the sorting of each contact against the company's own messaging policy, the message rules, the schedule and frequency checks, the opt-out and help path, and the open questions for named people."
+    }
+  ]
+}

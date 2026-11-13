@@ -1,0 +1,48 @@
+{
+  "id": "stale-promotion-code-review",
+  "name": "Stale promotion code review",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before the next campaign, the marketing or e-commerce manager gets one review of the store's discount codes: every expired, unused or duplicate code, the live and scheduled campaigns that still name each one, and a proposed action for a person to approve. It ends, deletes and changes nothing.",
+  "directory": "https://fullypowered.ai/workflows/stale-promotion-code-review/",
+  "primary_function": "functions/advertising-and-lead-generation",
+  "functions": [
+    "functions/advertising-and-lead-generation",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "affiliate-onboarding",
+    "creator-publication-tracking",
+    "campaign-build-sheet",
+    "discount-request-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of e-commerce and retail work, and its own method for reviewing a store's discount codes against the campaigns that name them."
+    }
+  ]
+}
