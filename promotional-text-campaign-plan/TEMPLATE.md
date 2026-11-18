@@ -312,4 +312,4 @@ in the brief, decline and name the person who decides.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example on 11 November 2026 in Claude; the record is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 11 November 2026 in Claude; the record is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

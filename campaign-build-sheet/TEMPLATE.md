@@ -225,4 +225,4 @@ Paste this block as custom instructions, followed by the Inputs section and the 
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example in Claude on 10 November 2026; that run was not blind to the published example output, and a blind run is still to do. Acceptance tests 2 to 8 have not been run. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; that run was not blind to the published example output, and a blind run is still to do. Acceptance tests 2 to 8 have not been run. Not yet tested in a client environment.

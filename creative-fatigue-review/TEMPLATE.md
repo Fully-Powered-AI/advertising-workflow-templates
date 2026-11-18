@@ -256,4 +256,4 @@ for return on spend or revenue, say this version does not read revenue.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example in Claude (Sonnet 5.5) on 10 November 2026, with the record published, and not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude (Sonnet 5.5) on 10 November 2026, with the record published, and not yet tested in a client environment.
