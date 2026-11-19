@@ -4,6 +4,8 @@ When a campaign's landing page is ready for a prelaunch check, the acquisition o
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ad-to-page-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ad-to-page-check/?from=gh-advertising-ad-to-page-check)
+
 ## The outcome
 
 A visitor clicks an ad, lands on a page and either finds what the ad promised or does not. This workflow template puts the ad and the page side by side before the campaign goes live, so the acquisition owner sees the gaps while they are still cheap to close.

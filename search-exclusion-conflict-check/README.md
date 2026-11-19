@@ -4,6 +4,8 @@ The paid search specialist gets a list of live keywords that a live exclusion ma
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/search-exclusion-conflict-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/search-exclusion-conflict-check/?from=gh-search-exclusion-conflict-check)
+
 ## The outcome
 
 Exclusion lists grow for years, written by different people for different reasons, at the account, in shared lists, on campaigns and on single ad groups. Somewhere in them is a word that was added to keep out one kind of search and now sits across a keyword someone is paying to win. Nobody finds it by reading the lists, because the keyword and the exclusion are in different files.

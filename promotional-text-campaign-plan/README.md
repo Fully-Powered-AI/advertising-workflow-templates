@@ -4,6 +4,8 @@ Before a promotional text campaign goes out, the marketing lead gets one plan: d
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/promotional-text-campaign-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/promotional-text-campaign-plan/?from=gh-promotional-text-campaign-plan)
+
 ## The outcome
 
 A text lands on someone's phone, so it has to earn its place. This plan makes sure every message does. The marketing lead sees, on one page, the messages as they would read, each with its character count and the offer facts it rests on; who can receive them under your own messaging policy, reconciled from the consent export; how many texts each person would get against your cap; and exactly what happens when someone replies STOP.

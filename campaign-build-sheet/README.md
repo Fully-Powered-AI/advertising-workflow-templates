@@ -4,6 +4,8 @@ When an approved campaign brief is ready to become a setup specification, the ca
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-build-sheet/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/campaign-build-sheet/?from=gh-advertising-campaign-build-sheet)
+
 ## The outcome
 
 The person setting up a paid campaign works from one sheet instead of a brief, three spreadsheets and a chat thread. Every campaign, audience and ad has a name built from your own naming convention. Every audience shows who is included and who is left out. Every ad points to a destination, a budget with its dates and the conversion it is meant to produce.

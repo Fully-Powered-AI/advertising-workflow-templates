@@ -4,6 +4,8 @@ Before the next campaign, the marketing or e-commerce manager gets one review of
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stale-promotion-code-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/stale-promotion-code-review/?from=gh-stale-promotion-code-review)
+
 ## The outcome
 
 Every store collects discount codes: one for each season, each creator, each apology, each banner. After a year or two nobody can say which still matter, and the next campaign adds more. This workflow template sorts them before that happens.

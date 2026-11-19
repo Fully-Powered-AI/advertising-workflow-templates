@@ -4,6 +4,8 @@ When a campaign's reach or response pattern prompts a creative review, the paid 
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-fatigue-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creative-fatigue-review/?from=gh-advertising-creative-fatigue-review)
+
 ## The outcome
 
 The conversation about whether the creative has run its course starts from one page instead of a hunch. For every creative in every audience, the page shows how often the same people were reached each week and how they responded, once in the campaign's own baseline window and once in the recent review window, with the change between them.

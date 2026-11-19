@@ -4,6 +4,8 @@ When an audience export is ready for review, the campaign owner gets it segmente
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-audience-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/campaign-audience-check/?from=gh-advertising-campaign-audience-check)
+
 ## The outcome
 
 Nobody approves an email audience on the strength of a row count. The campaign owner gets one page that says how many records the export held, how many are cleared to go into each segment, how many were taken out and why, and how many are being held back until a person looks at them. The three groups add up to the export, and the page shows the sum.

@@ -4,6 +4,8 @@ When sales feedback or results raise a lead-quality concern, the acquisition lea
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-quality-pattern-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lead-quality-pattern-review/?from=gh-lead-quality-pattern-review)
+
 ## The outcome
 
 "Those leads are not any good" turns into something the team can look at. Every lead in the period is set beside what happened to it afterwards, and the review shows where the share of useful leads sits well below the overall share: which source, which page, which location, which device, which part of the day or which week. It shows when the same leads sit in several of those places at once, so nobody reads one pattern as separate from the others.
