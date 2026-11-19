@@ -27,10 +27,10 @@ The campaign owner, or someone on the marketing team for them, starts it when an
 
 ## What they supply
 
-- The audience export, one row per record, with the address and the fields the segments use.
+- The audience export from your email marketing tool, or the list you keep, one row per record, with the address and the fields the segments use.
 - The permission records for those people: what status each holds and when it was recorded.
 - The preference records for the campaign's topic.
-- The bounce history, by address.
+- The bounce history from your email marketing tool, by address.
 - Optionally, your own do-not-contact list.
 - The campaign's settings: the as-of date, the topic, which permission statuses you count as permitted and which as excluded, how old a permission record may be, and the segment rules in priority order.
 
