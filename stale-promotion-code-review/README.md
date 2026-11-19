@@ -3,7 +3,7 @@
 Review a store's expired, unused and duplicate discount codes against the campaigns that still name them, with a proposal for a person to approve.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Stale promotion code review on our website](https://fullypowered.ai/workflows/stale-promotion-code-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Stale promotion code review on our website](https://fullypowered.ai/workflows/stale-promotion-code-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

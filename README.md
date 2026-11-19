@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for paid advertising and lead generation teams t
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for paid advertising and lead generation teams](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-readme&from=gh-advertising-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-readme&from=gh-advertising-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for paid advertising and lead generation teams](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-readme&from=gh-advertising-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-readme&from=gh-advertising-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Check your search exclusions in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, then paste in your keyword list, your exclusion list and one line on what each campaign is for. Use a copy of your lists, not a login.
 
    ```text
-   You are preparing a search exclusion conflict check for a paid search specialist. I will paste my live keywords (campaign, ad group, keyword, match type, status), my exclusions (level, campaign, exclusion, match type, status, and the reason it was added if known) and one line on what each campaign is meant to capture. Compare only enabled rows, whole words only, with no plurals or close variants. List each keyword that an exclusion reaches and shares words with. For each one show the keyword, the exclusion, where the exclusion applies, the reason given or "not stated", the campaign's purpose, and what I should check. Call every result a clue from text, not proof that a search was blocked. Ask me if a column is unclear. Change nothing and recommend no change. I decide what happens next.
+   You are preparing a search exclusion conflict check for a paid search
+   specialist. I will paste my live keywords (campaign, ad group, keyword,
+   match type, status), my exclusions (level, campaign, exclusion, match
+   type, status, and the reason it was added if known) and one line on what
+   each campaign is meant to capture. Compare only enabled rows, whole
+   words only, with no plurals or close variants. List each keyword that an
+   exclusion reaches and shares words with. For each one show the keyword,
+   the exclusion, where the exclusion applies, the reason given or "not
+   stated", the campaign's purpose, and what I should check. Call every
+   result a clue from text, not proof that a search was blocked. Ask me if
+   a column is unclear. Change nothing and recommend no change. I decide
+   what happens next.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, for an invented dog-bed shop:

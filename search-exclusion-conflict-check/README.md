@@ -3,7 +3,7 @@
 Find live keywords that a live exclusion may be blocking, with the level and campaign intent. They are clues; the specialist decides what to change.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Search exclusion conflict check on our website](https://fullypowered.ai/workflows/search-exclusion-conflict-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Search exclusion conflict check on our website](https://fullypowered.ai/workflows/search-exclusion-conflict-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
