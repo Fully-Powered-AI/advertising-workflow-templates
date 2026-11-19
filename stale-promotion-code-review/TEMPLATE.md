@@ -169,7 +169,7 @@ Offers are written `[value]% off` for `percent`, `[currency][value] off` for `am
 
 Proposed tests. Only test 1 has been tried, once; see the trial record published beside the example.
 
-1. **Normal run.** The invented example in the public folder. Expected: 13 codes listed and 4 counted; Keep 4, Fix the campaign first 2, Confirm first 3, End the code 3, Clear the expired code 1; 3 campaigns to fix, 1 naming a code not in the export; 3 questions.
+1. **Normal run.** The example in the public folder. Expected: 13 codes listed and 4 counted; Keep 4, Fix the campaign first 2, Confirm first 3, End the code 3, Clear the expired code 1; 3 campaigns to fix, 1 naming a code not in the export; 3 questions.
 2. **Header mismatch.** The code export names a column `expires` in place of `ends_on`. Expected: stops and asks which column is which.
 3. **Code ends on the campaign's last day.** Expected: no problem for that reference, and the code is not listed for it.
 4. **Unused code named by a scheduled campaign.** Expected: listed under Unused and proposed Keep, with the campaign named.
@@ -304,4 +304,4 @@ only.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried once on its invented example on 11 November 2026 in Claude; the record is published beside it and lists the small edits made afterward that have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried once on its example on 11 November 2026 in Claude; the record is published beside it and lists the small edits made afterward that have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

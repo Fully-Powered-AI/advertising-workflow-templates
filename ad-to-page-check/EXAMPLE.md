@@ -1,13 +1,13 @@
-# Ad to page check: an invented example
+# Ad to page check: an example
 
-*Illustrative example with invented data.* The business, the roles, the platforms, the dates and every figure below are invented. Client Q is an invented subscription tea company preparing a spring starter box campaign. The acquisition manager ran the workflow template after the web developer captured the two landing pages. First come the inputs, in full, then the findings list the workflow template returned.
+*Illustrative example with sample data.* The business, the roles, the platforms, the dates and every figure below are illustrative. Client Q is an illustrative subscription tea company preparing a spring starter box campaign. The acquisition manager ran the workflow template after the web developer captured the two landing pages. First come the inputs, in full, then the findings list the workflow template returned.
 
 ## The inputs
 
 ### 1. Check settings
 
 ```
-Business: Client Q (an invented subscription tea company)
+Business: Client Q (an illustrative subscription tea company)
 Campaign: Starter box spring launch
 Prepared for: Acquisition manager
 Page owner: Web developer
@@ -77,7 +77,7 @@ D2,mobile,4,form_field,Delivery address,yes,
 ## The findings list
 
 ```
-AD-TO-PAGE CHECK: Starter box spring launch, Client Q (an invented subscription tea company)
+AD-TO-PAGE CHECK: Starter box spring launch, Client Q (an illustrative subscription tea company)
 
 For: Acquisition manager. As of 2027-02-15. Launch date: 2027-03-01. Conversion goal: Completed starter box order. Page owner: Web developer.
 

@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example's own: the settings, keywords.csv, negatives.csv, campaigns.csv and attachments.csv in `public/example.md`. No client data was used. The one who ran it did not write the template, and read the example's output only after producing its own.
+The inputs were the example's own: the settings, keywords.csv, negatives.csv, campaigns.csv and attachments.csv in `public/example.md`. No client data was used. The one who ran it did not write the template, and read the example's output only after producing its own.
 
 ## What came out
 
@@ -45,4 +45,4 @@ Where the template left room to guess:
 - Counting "keywords with a conflict" counts each keyword once even if several exclusions hit it; the template does not say this.
 - A campaign-level exclusion's blank ad_group and a shared list's blank campaign are expected, but "a field its level needs left blank" is only implied by the input list.
 
-This was one trial on one invented example. It shows the instructions can be followed to the published output, not that they work on real account exports or in other products.
+This was one trial on one example. It shows the instructions can be followed to the published output, not that they work on real account exports or in other products.

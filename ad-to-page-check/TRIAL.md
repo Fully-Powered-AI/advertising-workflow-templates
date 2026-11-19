@@ -1,17 +1,17 @@
-# Ad to page check: tried on its invented example
+# Ad to page check: tried on its example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (claude-sonnet-5-5). Date: 2026-11-10.
 
-The inputs were the invented example in [example.md](example.md): the check settings, ad copy, approved offer terms and page capture for Client Q, an invented subscription tea company. No client data was used. The assistant that ran the template had not written it. It read the template and only the inputs of the example, produced the output, and only then compared it with the example's findings list and the template's reviewer checklist.
+The inputs were the example in [example.md](example.md): the check settings, ad copy, approved offer terms and page capture for Client Q, an illustrative subscription tea company. No client data was used. The assistant that ran the template had not written it. It read the template and only the inputs of the example, produced the output, and only then compared it with the example's findings list and the template's reviewer checklist.
 
 ## What came out
 
 The assistant followed the fenced instruction block and the output format. The full output was:
 
 ```
-AD-TO-PAGE CHECK: Starter box spring launch, Client Q (an invented subscription tea company)
+AD-TO-PAGE CHECK: Starter box spring launch, Client Q (an illustrative subscription tea company)
 
 For: Acquisition manager. As of 2027-02-15. Launch date: 2027-03-01. Conversion goal: Completed starter box order. Page owner: Web developer.
 
@@ -90,4 +90,4 @@ terms and the page capture supplied. Nothing marked unknown was assumed to be fi
   - The trace line says the check "traces" every statement to the inputs, which is true here, but the finding text "Who can supply" for a Form friction finding has no rule behind it, as noted above.
 - **Note added after an independent review (the run itself is unchanged).** After this run the template's wording was clarified on the points marked above as ambiguous (the heading for page silent and condition not shown, a condition written into the ad's value, who can supply a form finding, and the ad block's findings line), and the example's findings list was brought into line with the output format. That is why the differences listed above no longer all exist in the published example. The template was not run again after those changes, so this record describes the run on the earlier wording only. A second review then asked for further wording changes, which were also not re-run: finding Ad lines are `not applicable` for page-state and form findings, an `Approved:` element for offer findings, the heading when one item both differs and has a condition not shown, the order of form findings, calls to action compared ignoring case and punctuation, and writing what a confirmation names. The recorded output above, including its missing `Ad:` on findings 7 and 8, is unchanged.
 - **Reviewer checklist.** The assistant checked its output against the seven items. Items 1 to 6 hold. Item 7 holds: nothing is ranked, rewritten, judged or predicted, and the output says nothing was changed.
-- **Shortcomings.** This is one run, by one model, on one invented example, scored by the same assistant that produced the output. It shows the template can be followed to the expected result on this input. It does not show how the template behaves on a real campaign, with messy captures or with another product.
+- **Shortcomings.** This is one run, by one model, on one example, scored by the same assistant that produced the output. It shows the template can be followed to the expected result on this input. It does not show how the template behaves on a real campaign, with messy captures or with another product.

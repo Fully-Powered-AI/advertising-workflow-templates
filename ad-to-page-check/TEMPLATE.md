@@ -108,7 +108,7 @@ terms and the page capture supplied. Nothing marked unknown was assumed to be fi
 
 Proposed tests. None has been run.
 
-1. **Normal run.** The invented example in the public folder. Expected: eleven findings, three Unknown, three Missing on page, three Differs, one Timing conflict, one Form friction.
+1. **Normal run.** The example in the public folder. Expected: eleven findings, three Unknown, three Missing on page, three Differs, one Timing conflict, one Form friction.
 2. **Header mismatch.** The capture names a column `view` in place of `state`. Expected: stops and asks which column is which.
 3. **No mobile capture.** One destination has desktop rows only. Expected: mobile marked unknown, one Unknown finding, and no mobile result anywhere for it.
 4. **Term ends on launch day.** An offer term's end date equals the launch date. Expected: no Timing conflict.
@@ -209,4 +209,4 @@ acquisition owner decides.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example, in Claude on 10 November 2026, with the record published beside it. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example, in Claude on 10 November 2026, with the record published beside it. Not yet tested in a client environment.

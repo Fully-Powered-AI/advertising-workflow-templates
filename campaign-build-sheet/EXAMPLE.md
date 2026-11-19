@@ -1,13 +1,13 @@
-# Campaign build sheet: an invented example
+# Campaign build sheet: an example
 
-*Illustrative example with invented data.* The business, its web addresses (on the reserved example domain), the roles, the platforms, the dates and every figure below are invented. Client M is an invented chain of garden centres planning a spring bulb sale. The paid media operator at the agency ran the workflow template once the client's marketing manager had approved the brief. First come the inputs the operator supplied, in full, then the build sheet the workflow template returned.
+*Illustrative example with sample data.* The business, its web addresses (on the reserved example domain), the roles, the platforms, the dates and every figure below are illustrative. Client M is an illustrative chain of garden centres planning a spring bulb sale. The paid media operator at the agency ran the workflow template once the client's marketing manager had approved the brief. First come the inputs the operator supplied, in full, then the build sheet the workflow template returned.
 
 ## The inputs
 
 ### 1. Build settings
 
 ```
-Business: Client M (an invented garden centre chain)
+Business: Client M (an illustrative garden centre chain)
 Campaign: Spring bulb sale
 Brief approved by: Marketing manager, 2026-11-02
 Operator: Paid media operator
@@ -68,7 +68,7 @@ E2,Click on the Reserve in store button,,unconfirmed,Web developer
 ## The build sheet
 
 ```
-CAMPAIGN BUILD SHEET: Spring bulb sale, Client M (an invented garden centre chain)
+CAMPAIGN BUILD SHEET: Spring bulb sale, Client M (an illustrative garden centre chain)
 
 For: Paid media operator. Brief approved by Marketing manager, 2026-11-02. As of 2026-11-10. Authorized owner: Marketing manager.
 

@@ -1,13 +1,13 @@
-# Lead quality pattern review: an invented example
+# Lead quality pattern review: an example
 
-*Illustrative example with invented data.* The client, its leads, its pages, its locations, the roles, the dates and the notes below are all invented, and so is every count. Client Q is an invented regional flooring installer whose sales team has said that some leads are not worth the call. The acquisition lead ran the review. First come the inputs the acquisition lead supplied, in full, then the review the workflow template returned. The lead outcomes below are 88 invented rows, one per line, as the export would hold them.
+*Illustrative example with sample data.* The client, its leads, its pages, its locations, the roles, the dates and the notes below are all illustrative, and so is every count. Client Q is an illustrative regional flooring installer whose sales team has said that some leads are not worth the call. The acquisition lead ran the review. First come the inputs the acquisition lead supplied, in full, then the review the workflow template returned. The lead outcomes below are 88 sample rows, one per line, as the export would hold them.
 
 ## The inputs
 
 ### 1. Review settings
 
 ```
-Business: Client Q (an invented regional flooring installer)
+Business: Client Q (an illustrative regional flooring installer)
 Lead defined as: a completed quote request form or a tracked call of over 60 seconds
 Period: 2026-10-01 to 2026-10-31
 As-of date: 2026-11-09

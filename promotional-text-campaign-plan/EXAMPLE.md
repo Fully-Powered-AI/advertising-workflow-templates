@@ -1,6 +1,6 @@
-# Promotional text campaign plan: an invented example
+# Promotional text campaign plan: an example
 
-*Illustrative example with invented data.* The company, the people, the phone numbers (all in the 555-01 range kept for fiction), the link (on the reserved .example domain), the dates and the counts below are invented. Shop T is an invented plant and garden shop with two stores and an online shop. Its marketing lead wants to text customers about a weekend houseplant sale, and ran the plan with the marketing coordinator, who keeps the consent records, and the operations manager, whom the company names as its policy reviewer for texting. First come the inputs the marketing lead supplied, in full, then the plan the workflow template returned.
+*Illustrative example with sample data.* The company, the people, the phone numbers (all in the 555-01 range kept for fiction), the link (on the reserved .example domain), the dates and the counts below are illustrative. Shop T is an illustrative plant and garden shop with two stores and an online shop. Its marketing lead wants to text customers about a weekend houseplant sale, and ran the plan with the marketing coordinator, who keeps the consent records, and the operations manager, whom the company names as its policy reviewer for texting. First come the inputs the marketing lead supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 

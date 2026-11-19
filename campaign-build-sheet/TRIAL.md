@@ -1,14 +1,14 @@
-# Trial: Campaign build sheet, run once on its invented example
+# Trial: Campaign build sheet, run once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Client M, an invented garden centre chain, and its spring bulb sale). No client data was used. The run followed the instruction block and the output format in `member/template.md` as revised on 10 November 2026 after an independent review.
+The inputs are the example in `public/example.md` (Client M, an illustrative garden centre chain, and its spring bulb sale). No client data was used. The run followed the instruction block and the output format in `member/template.md` as revised on 10 November 2026 after an independent review.
 
 Limits on this trial, stated first:
 
-- **The run was not blind and not independent.** The same session that revised the template then applied the revised block line by line to the five invented inputs, with the published example's output already known. The sheet below is the published example's sheet word for word. That sameness is a consequence of the run not being blind, not evidence that two independent runs agree.
+- **The run was not blind and not independent.** The same session that revised the template then applied the revised block line by line to the five sample inputs, with the published example's output already known. The sheet below is the published example's sheet word for word. That sameness is a consequence of the run not being blind, not evidence that two independent runs agree.
 - **The wording of the gap resolutions was not independently chosen.** The template leaves the "To resolve" wording open, so a blind run would probably word them differently. The per-line totals in gap 1 are now required by the template; they were not before.
 - **A blind run is still owed.** No run has yet been made by a session that had not seen the published output.
 
@@ -17,7 +17,7 @@ Limits on this trial, stated first:
 The sheet from this run is below. It is identical to the sheet in `public/example.md`; no difference in wording was found, which is expected given the limits above.
 
 ```
-CAMPAIGN BUILD SHEET: Spring bulb sale, Client M (an invented garden centre chain)
+CAMPAIGN BUILD SHEET: Spring bulb sale, Client M (an illustrative garden centre chain)
 
 For: Paid media operator. Brief approved by Marketing manager, 2026-11-02. As of 2026-11-10. Authorized owner: Marketing manager.
 
@@ -88,4 +88,4 @@ Every figure and value traces to the build settings for Spring bulb sale and the
 - **Facts not in the inputs:** none found. Every value, name and figure traces to the settings or the five files.
 - **Points the revised block now settles, applied here:** an asset gap with a blank `approved_by` (C4, C5) reads "not stated"; a destination's status and missing tracking (D2) are two gaps while an event's status and place recorded (E2) are one; the over-limit gap lists each line's total; names are counted character by character across all three levels; the "As of" line would read "not supplied" if the optional date were left out (not exercised, since the date was supplied); a total exactly equal to the limit would show headroom 0 (not exercised).
 - **Checklist (items 1 to 7):** names follow their patterns with no invented code; totals add up; the missing campaign-wide exclusion "staff" is raised as a gap for L2; the staging, missing, in progress and unconfirmed statuses are shown as supplied; each gap appears once in sheet order with who can supply it; no value is absent from the inputs; no budget change, targeting choice or creative is recommended and the sheet says nothing was created or launched.
-- **Limits of this trial:** one run, one model, one invented example, with the published output known beforehand. It shows only that the revised instructions, applied carefully, give the published result on that input. It says nothing about real exports, other ad platforms or the other acceptance cases (unapproved brief, header mismatch, missing token, name too long, open end date, unlisted reference, request to launch), none of which was run. A blind run is still to do.
+- **Limits of this trial:** one run, one model, one example, with the published output known beforehand. It shows only that the revised instructions, applied carefully, give the published result on that input. It says nothing about real exports, other ad platforms or the other acceptance cases (unapproved brief, header mismatch, missing token, name too long, open end date, unlisted reference, request to launch), none of which was run. A blind run is still to do.

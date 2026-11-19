@@ -8,7 +8,7 @@ Frequency and response by creative and audience against the campaign's own basel
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-fatigue-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review)*
@@ -37,7 +37,7 @@ The paid media lead, or a media analyst for them, starts it when a campaign's re
 
 One page in a fixed order: the settings and windows used, a campaign-level view, the changes in the period, the audience definitions, a table of frequency, click-through rate and cost per conversion by creative and audience with the change from baseline, the pairs that could not be compared and why, the alternative explanations for each pair, what the comparison shows, two to four options to test and questions for the lead. Where a section is empty it says so. The page claims no cause and changes nothing in any account.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Choose the baseline window for each campaign and the length of the review window
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past campaign whose story you already know: one where a creative really did tire, one where a tracking change made response look worse, and one with a mixed audience. The media lead should recompute every figure in the table from the export before the page is relied on.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on a past campaign whose story you 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,13 +1,13 @@
-# Search exclusion conflict check: an invented example
+# Search exclusion conflict check: an example
 
-*Illustrative example with invented data.* The shop, the campaigns, the keywords, the exclusions, the reasons and the dates below are all invented. Client R is an invented online dog-bed shop. The paid search specialist supplied four files and the settings; first come the inputs in full, then the document the workflow template returned.
+*Illustrative example with sample data.* The shop, the campaigns, the keywords, the exclusions, the reasons and the dates below are all illustrative. Client R is an illustrative online dog-bed shop. The paid search specialist supplied four files and the settings; first come the inputs in full, then the document the workflow template returned.
 
 ## The inputs
 
 ### 1. Settings
 
 ```
-Account: Client R (an invented online dog-bed shop)
+Account: Client R (an illustrative online dog-bed shop)
 As-of date: 2026-11-10
 Deciding role: paid search specialist
 ```

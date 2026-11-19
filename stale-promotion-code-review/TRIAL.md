@@ -1,17 +1,17 @@
-# Stale promotion code review: tried on its invented example
+# Stale promotion code review: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-The inputs were the invented example in [example.md](example.md) (Store K, an invented online candle shop): the review settings, the code export of seventeen codes, the fourteen campaign references and the one-line keep list. No client data was used. The assistant was given the template's instructions block and output format, and it was run once, by a model that had not written the template. It was not shown the published output until after it had produced its own.
+The inputs were the example in [example.md](example.md) (Store K, an illustrative online candle shop): the review settings, the code export of seventeen codes, the fourteen campaign references and the one-line keep list. No client data was used. The assistant was given the template's instructions block and output format, and it was run once, by a model that had not written the template. It was not shown the published output until after it had produced its own.
 
 ## What came out
 
 The full review follows, as produced.
 
 ```
-STALE PROMOTION CODE REVIEW: Store K (an invented online candle shop)
+STALE PROMOTION CODE REVIEW: Store K (an illustrative online candle shop)
 
 For: E-commerce manager. Approves changes: E-commerce manager. Review date: 2027-03-15.
 Unused: no use on or after 2026-12-15 (90 days before the review date).
@@ -166,14 +166,14 @@ references and the keep list supplied.
   4. The giftset proposal. Ending the lower-case giftset code is correct by the first rule that applies, but if the checkout ignores letter case, ending it could change what shoppers who type GIFTSET receive. The template's own "Not checked" line admits it does not know how the checkout treats case, and the "Check with the store" line is attached to the group. The proposal is still End the code with no warning on the code itself.
   5. The format shows "To settle" for a code missing from the export as "approver approves creating it". The assistant followed it, though it sits oddly beside the rule that the assistant never proposes creating a code.
   6. The "[n] days before" in the two cutoff lines repeats the setting; the template does not say what to print if the setting is the default.
-- **Shortcomings of the template that this one run shows:** the reviewer checklist item 6 (check each keep-list code with whoever named it) cannot be done by the assistant and is not marked as the person's job; the template's own version note still says it is not tried on its example, which this record supersedes; and a single run on one invented example shows that the instructions can be followed, not that they hold for a real store's export, where column names, status words and campaign lists will differ.
+- **Shortcomings of the template that this one run shows:** the reviewer checklist item 6 (check each keep-list code with whoever named it) cannot be done by the assistant and is not marked as the person's job; the template's own version note still says it is not tried on its example, which this record supersedes; and a single run on one example shows that the instructions can be followed, not that they hold for a real store's export, where column names, status words and campaign lists will differ.
 - **Nothing was changed in any store or campaign,** and the assistant asked for nothing it could not do from the files given.
 
 ## Changed after the run, and not run again
 
 Changed on 11 and 12 November 2026 after review feedback on the draft template from an independent reviewer, and not run again. The output and the observations above are as recorded and describe the template and the example as they stood at the run:
 
-- The version note, the profile and the answer to "What has been checked?" now say the template was tried once on its invented example; they said it had not been tried.
+- The version note, the profile and the answer to "What has been checked?" now say the template was tried once on its example; they said it had not been tried.
 - The code line in the output format has a slot for the start date of a code that starts later, and the example shows SPRING15 with its start date.
 - The state in the output format is the bare word, with no date.
 - The summary line in the example now reads "name", as the format does.

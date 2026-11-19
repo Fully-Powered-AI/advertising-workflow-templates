@@ -1,13 +1,13 @@
-# Stale promotion code review: an invented example
+# Stale promotion code review: an example
 
-*Illustrative example with invented data.* The store, the roles, the platform, the codes, the campaigns, the dates and every figure below are invented. Store K is an invented online candle shop with seventeen discount codes built up over two years. Its e-commerce manager ran the workflow template a few days before a spring launch. First come the inputs the e-commerce manager supplied, in full, then the review the workflow template returned.
+*Illustrative example with sample data.* The store, the roles, the platform, the codes, the campaigns, the dates and every figure below are illustrative. Store K is an illustrative online candle shop with seventeen discount codes built up over two years. Its e-commerce manager ran the workflow template a few days before a spring launch. First come the inputs the e-commerce manager supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 
 ### 1. Review settings
 
 ```
-Store: Store K (an invented online candle shop)
+Store: Store K (an illustrative online candle shop)
 Prepared for: E-commerce manager
 Approves changes: E-commerce manager
 Review date: 2027-03-15
@@ -71,7 +71,7 @@ SORRY10,Customer service sends it after a late delivery,Customer service lead
 ## The review
 
 ```
-STALE PROMOTION CODE REVIEW: Store K (an invented online candle shop)
+STALE PROMOTION CODE REVIEW: Store K (an illustrative online candle shop)
 
 For: E-commerce manager. Approves changes: E-commerce manager. Review date: 2027-03-15.
 Unused: no use on or after 2026-12-15 (90 days before the review date).

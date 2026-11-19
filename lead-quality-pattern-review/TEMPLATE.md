@@ -153,7 +153,7 @@ Every figure traces to the lead outcomes export for [period], the settings, the 
 
 Proposed tests. None has been run.
 
-1. **Normal run.** The invented example in the public folder. Expected: 86 leads reviewed, 76 settled, overall 57.9 percent, four patterns, five faults, three sales notes handled.
+1. **Normal run.** The example in the public folder. Expected: 86 leads reviewed, 76 settled, overall 57.9 percent, four patterns, five faults, three sales notes handled.
 2. **Header mismatch.** The export names a column `result` in place of `outcome`. Expected: stops and asks which column is which.
 3. **Unknown outcome.** A row with the outcome "Callback". Expected: stops and asks which list it belongs to.
 4. **Small segment.** A segment with 6 settled leads and none useful. Expected: "Too few to read"; no pattern.
@@ -250,4 +250,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its invented example, in Claude on 10 November 2026, with the record published beside it. Edited after an independent review and not run again: the minimum-leads test now follows cleaning, check four counts settled leads, a removed repeat row counts by its own values, points round from unrounded figures with an exact tie going to the even digit, a part-week keeps its label, the device is checked against the scope, and the segment-order line names the exceptions. Each settles a point in the way the run already chose, except the device check, which the run did not make. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its example, in Claude on 10 November 2026, with the record published beside it. Edited after an independent review and not run again: the minimum-leads test now follows cleaning, check four counts settled leads, a removed repeat row counts by its own values, points round from unrounded figures with an exact tie going to the even digit, a part-week keeps its label, the device is checked against the scope, and the segment-order line names the exceptions. Each settles a point in the way the run already chose, except the device check, which the run did not make. Not yet tested in a client environment.

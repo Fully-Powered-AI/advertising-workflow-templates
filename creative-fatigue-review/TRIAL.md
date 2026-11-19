@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (Client A, an invented seller of garden furniture, and its spring patio campaign). No client data was used. The model that ran the template did not write it.
+The inputs were the example in `public/example.md` (Client A, an illustrative seller of garden furniture, and its spring patio campaign). No client data was used. The model that ran the template did not write it.
 
 ## Inputs used
 
@@ -98,7 +98,7 @@ Every figure was calculated from the export, windows, audience definitions, chan
 
 ## What this does and does not show
 
-It shows that Claude Sonnet 5.5, given this template and this invented example, produced a complete page in the required format with figures that reproduce from the export. It does not show the template works in a client's environment, in a chat window without a code tool, with a real export, or for a person who has not seen the answer. The acceptance tests other than test 1 were not run.
+It shows that Claude Sonnet 5.5, given this template and this example, produced a complete page in the required format with figures that reproduce from the export. It does not show the template works in a client's environment, in a chat window without a code tool, with a real export, or for a person who has not seen the answer. The acceptance tests other than test 1 were not run.
 
 ## Note added after independent review
 

@@ -1,10 +1,10 @@
-# Campaign audience check: trial on the invented example
+# Campaign audience check: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md): the campaign settings and the five files for Shop R's winter offers email. No client data was used. The model that ran the template did not write it, and it read only the example's inputs before producing its page; the example's own page was read afterwards, for comparison.
+The inputs are the example in [example.md](example.md): the campaign settings and the five files for Shop R's winter offers email. No client data was used. The model that ran the template did not write it, and it read only the example's inputs before producing its page; the example's own page was read afterwards, for comparison.
 
 ## What came out
 
@@ -116,7 +116,7 @@ Audience approved by: ____________ Date: __________
   - The Q entries leave open whether a record's further reasons should also be counted in a total; the template says a record is counted once, under its first reason, and this run did that.
 - **Facts not in the inputs.** None in this run's page. In the example's page, the day counts (for instance 1,012 days for R04) and the statement that R10 and R11 permissions fall within 730 days are calculated from the inputs, not copied; both checked out.
 - **Defects found.** None that changed an answer. The template says "Paste this block as custom instructions, followed by the output format above", so the format sits outside the fenced block and a user who pastes only the block gets no format; the reader has to do both.
-- **Limits of this trial.** One run, one model, on invented data of 21 rows. It shows the instructions can be followed to the published result; it does not show how the template behaves on a real export, a different file layout or a large file. It is not a test in a client environment.
+- **Limits of this trial.** One run, one model, on sample data of 21 rows. It shows the instructions can be followed to the published result; it does not show how the template behaves on a real export, a different file layout or a large file. It is not a test in a client environment.
 
 ## After independent review
 
@@ -125,7 +125,7 @@ The recorded page and observations above are unchanged. A review afterwards led 
 - The template now says that a repeated record_id stops the work only in the audience export, that the soft-bounce window includes its start date (the as-of date minus the window in days, 2026-08-12 here), that entries are ordered by reason and then by lowest record id, and that only records sharing an address, or a full name and company, share an entry. These match what the run above did, so its page still fits the instructions.
 - The run above named the file in its facts lines but not the row. The format already asked for both, and now says a row is the data row's number, header not counted. The example now gives file and row throughout.
 - The example was reordered to the run's order of entries and its question for R18 now matches the run's narrower wording, so the example's seven entries and the run's page agree.
-- The record R20's name in the example inputs was changed to another invented name. No count changed.
+- The record R20's name in the example inputs was changed to another sample name. No count changed.
 - The version notes and the profile now say the template was tried on its example.
 
 These are clarifications of the instructions, and the template was not run again after them.

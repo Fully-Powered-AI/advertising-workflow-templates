@@ -1,6 +1,6 @@
-# Campaign audience check: an invented example
+# Campaign audience check: an example
 
-*Illustrative example with invented data.* The company, the people, the addresses (all on the reserved .example domain), the dates and the counts below are invented. Shop R is an invented online seller of homeware to cafes, hotels and small businesses. Its campaign owner has an audience export for a winter offers email and ran the check, with the customer-data steward answering questions about records. First come the inputs the campaign owner supplied, in full, then the page the workflow template returned.
+*Illustrative example with sample data.* The company, the people, the addresses (all on the reserved .example domain), the dates and the counts below are illustrative. Shop R is an illustrative online seller of homeware to cafes, hotels and small businesses. Its campaign owner has an audience export for a winter offers email and ran the check, with the customer-data steward answering questions about records. First come the inputs the campaign owner supplied, in full, then the page the workflow template returned.
 
 ## The inputs
 

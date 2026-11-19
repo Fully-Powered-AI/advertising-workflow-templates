@@ -1,10 +1,10 @@
-# Trial: Lead quality pattern review, run once on its invented example
+# Trial: Lead quality pattern review, run once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (section "The inputs": settings, scope, known changes, the 88-row lead outcomes export and the three sales notes). No client data was used.
+The inputs are the example in `public/example.md` (section "The inputs": settings, scope, known changes, the 88-row lead outcomes export and the three sales notes). No client data was used.
 
 ## How this run differs from a clean one
 
@@ -135,7 +135,7 @@ Every figure traces to the lead outcomes export for 2026-10-01 to 2026-10-31, th
   - The week of 2026-09-28 holds only 1 to 4 October leads, because earlier days are outside the period. The template does not say whether to label such a part-week differently.
   - The overall rate (57.9) is subtracted before rounding, so the printed points (for example +0.0 for the week of 2026-10-05) can differ in the last digit from the difference of the printed rates. The template says to round percentages, but not whether points are rounded from unrounded figures; unrounded was assumed.
   - "Overnight" is a day part with no leads and so is not listed, which follows the rule that empty segments are omitted.
-- **Shortcomings.** The invented example is easy for the rules: the four patterns overlap almost completely (all of Social paid, /spring-offer and Outside service area sit together), which the review reports as overlap and not as an explanation, as required. The template has not been tried where two patterns partly overlap, where a segment sits just under the minimum, or on an export with a mis-spelled outcome. Cases where the template stops (header mismatch, unknown outcome, a request to name a cause) were not exercised in this run. The 15-point flag and the 10-lead minimum are the example's settings, not the defaults (20 and 15), so the defaults were not run either.
+- **Shortcomings.** The example is easy for the rules: the four patterns overlap almost completely (all of Social paid, /spring-offer and Outside service area sit together), which the review reports as overlap and not as an explanation, as required. The template has not been tried where two patterns partly overlap, where a segment sits just under the minimum, or on an export with a mis-spelled outcome. Cases where the template stops (header mismatch, unknown outcome, a request to name a cause) were not exercised in this run. The 15-point flag and the 10-lead minimum are the example's settings, not the defaults (20 and 15), so the defaults were not run either.
 
 ## Notes added after the run
 

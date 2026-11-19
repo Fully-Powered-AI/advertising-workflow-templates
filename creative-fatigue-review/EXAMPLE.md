@@ -1,6 +1,6 @@
-# Creative fatigue review: an invented example
+# Creative fatigue review: an example
 
-*Illustrative example with invented data.* Client A is an invented online seller of garden furniture. Its paid media lead has noticed that the spring patio campaign is reaching the same shoppers more often and drawing fewer clicks, and asks for a review of the creative. Nothing here describes a real account or a real result.
+*Illustrative example with sample data.* Client A is an illustrative online seller of garden furniture. Its paid media lead has noticed that the spring patio campaign is reaching the same shoppers more often and drawing fewer clicks, and asks for a review of the creative. Nothing here describes a real account or a real result.
 
 ## What the person supplies
 

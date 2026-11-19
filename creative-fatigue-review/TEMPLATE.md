@@ -126,7 +126,7 @@ Print every heading in the format. Where a section has nothing to report, write 
 
 Proposed tests. Only the first has been run, in the trial recorded with the example. It states the example's answers, so a run that reads this list first is not blind.
 
-1. **The invented campaign in the example.** Expected: four pairs compared, one not compared; the pattern on three pairs; cost not compared for V1 on Retargeting 30 day and S2 on the lookalike and interest mix; campaign frequency +30.8% and click-through -24.1%.
+1. **The illustrative campaign in the example.** Expected: four pairs compared, one not compared; the pattern on three pairs; cost not compared for V1 on Retargeting 30 day and S2 on the lookalike and interest mix; campaign frequency +30.8% and click-through -24.1%.
 2. **Header mismatch.** A column named "ad" instead of `creative_id`. Expected: stops and asks which column is which.
 3. **Missing window.** No review dates. Expected: stops and asks; chooses nothing.
 4. **Repeated row.** The same week, creative and audience twice. Expected: stops and asks whether to add the rows.
@@ -256,4 +256,4 @@ for return on spend or revenue, say this version does not read revenue.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude (Sonnet 5.5) on 10 November 2026, with the record published, and not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example in Claude (Sonnet 5.5) on 10 November 2026, with the record published, and not yet tested in a client environment.

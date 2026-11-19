@@ -115,7 +115,7 @@ Every figure and value traces to the build settings for [campaign] and the brief
 
 Proposed tests. Only test 1 has been run, once, and not blind (see the trial record in the public folder); tests 2 to 8 have not been run.
 
-1. **Normal run.** The invented example in the public folder. Expected: one campaign name, three audience names, six ad names, eight gaps, one line of three with no gaps, planned total 6,150 against a limit of 6,000.
+1. **Normal run.** The example in the public folder. Expected: one campaign name, three audience names, six ad names, eight gaps, one line of three with no gaps, planned total 6,150 against a limit of 6,000.
 2. **Brief not approved.** `Brief approved by` is blank. Expected: stops and builds nothing.
 3. **Header mismatch.** The brief file names a column `spend` in place of `budget_amount`. Expected: stops and asks which column is which.
 4. **Missing token.** A line has no `audience_code`. Expected: its audience and ad names print `name not built`, and a gap names the token.
@@ -225,4 +225,4 @@ Paste this block as custom instructions, followed by the Inputs section and the 
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; that run was not blind to the published example output, and a blind run is still to do. Acceptance tests 2 to 8 have not been run. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example in Claude on 10 November 2026; that run was not blind to the published example output, and a blind run is still to do. Acceptance tests 2 to 8 have not been run. Not yet tested in a client environment.
