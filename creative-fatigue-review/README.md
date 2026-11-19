@@ -1,10 +1,17 @@
 # Creative fatigue review
 
-When a campaign's reach or response pattern prompts a creative review, the paid media lead gets frequency and response set against the campaign's own baseline, by creative and audience, with other explanations marked and options to test.
+Frequency and response by creative and audience against the campaign's own baseline, with other explanations marked. A person decides what to test.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-fatigue-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creative fatigue review on our website](https://fullypowered.ai/workflows/creative-fatigue-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creative-fatigue-review/?from=gh-advertising-creative-fatigue-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creative-fatigue-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review)*
 
 ## The outcome
 
@@ -34,16 +41,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where creative runs against live spend and someone has to decide whether to refresh it.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the people who make the creative need to know what the numbers can and cannot say.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), for keeping tracking changes and audience edits beside the results.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency watches creative across several clients.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where always-on campaigns reach the same shoppers for weeks.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where one creative is often shown to a broad audience for a long run.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when spend is rising and the same audience is reached more often.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when an in-house team runs long-lived campaigns with a creative library that has not been refreshed on a schedule.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review), where creative runs against live spend and someone has to decide whether to refresh it.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review), where the people who make the creative need to know what the numbers can and cannot say.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review), for keeping tracking changes and audience edits beside the results.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review), where an agency watches creative across several clients.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review), where always-on campaigns reach the same shoppers for weeks.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review), where one creative is often shown to a broad audience for a long run.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review), when spend is rising and the same audience is reached more often.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review), when an in-house team runs long-lived campaigns with a creative library that has not been refreshed on a schedule.
 
-It is not a test of which creative did better (see [creative test evidence review](https://fullypowered.ai/workflows/creative-test-evidence-review/)) and not a report to a client ([client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/)).
+It is not a test of which creative did better (see [creative test evidence review](https://fullypowered.ai/workflows/creative-test-evidence-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review)) and not a report to a client ([client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review)).
 
 ## What has to change for your company
 
@@ -80,10 +87,10 @@ Testing in your environment means running it on a past campaign whose story you 
 
 ## Related workflow templates
 
-- [Creative test evidence review](https://fullypowered.ai/workflows/creative-test-evidence-review/)
-- [Client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/)
-- [Inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)
+- [Creative test evidence review](https://fullypowered.ai/workflows/creative-test-evidence-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review)
+- [Client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review)
+- [Inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-creative-fatigue-review&from=gh-advertising-creative-fatigue-review).

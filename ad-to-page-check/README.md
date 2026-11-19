@@ -1,10 +1,17 @@
 # Ad to page check
 
-When a campaign's landing page is ready for a prelaunch check, the acquisition owner gets a findings list that sets each ad beside the captured page: message, offer details, form and next step, on mobile and desktop. Page states nobody captured are marked unknown.
+Set each ad beside its captured landing page before launch: message, offer details, form and next step. A person decides what to fix.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ad-to-page-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Ad to page check on our website](https://fullypowered.ai/workflows/ad-to-page-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ad-to-page-check/?from=gh-advertising-ad-to-page-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ad-to-page-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check)*
 
 ## The outcome
 
@@ -39,15 +46,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where the last check before spend starts is whether the page keeps the ad's promise.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the ad copy and the page are often written by different people.
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where the mobile and desktop views of the same page have to agree.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency checks pages it did not build.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where prices, delivery terms and end dates change often.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where trial and sign-up pages carry the offer.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when campaigns multiply faster than anyone can click through each one.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check), where the last check before spend starts is whether the page keeps the ad's promise.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check), where the ad copy and the page are often written by different people.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check), where the mobile and desktop views of the same page have to agree.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check), where an agency checks pages it did not build.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check), where prices, delivery terms and end dates change often.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check), where trial and sign-up pages carry the offer.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check), when campaigns multiply faster than anyone can click through each one.
 
-It does not set the campaign up ([campaign build sheet](https://fullypowered.ai/workflows/campaign-build-sheet/)), review each form field's purpose ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)) or tie each claim to its evidence ([campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)). It compares the ad with the page and stops there. It is also not the audit of a campaign taken over from someone else ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)); this check comes before launch, on ads and a page you are about to switch on.
+It does not set the campaign up ([campaign build sheet](https://fullypowered.ai/workflows/campaign-build-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check)), review each form field's purpose ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check)) or tie each claim to its evidence ([campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check)). It compares the ad with the page and stops there. It is also not the audit of a campaign taken over from someone else ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check)); this check comes before launch, on ads and a page you are about to switch on.
 
 ## What has to change for your company
 
@@ -61,7 +68,7 @@ It does not set the campaign up ([campaign build sheet](https://fullypowered.ai/
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record is published with it. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a campaign whose page you already know, with cases written in advance: a price that differs between ad and page, a delivery term that ends before launch, a mobile view that drops an offer, a form with more fields than your limit, a state nobody captured. The acquisition owner checks every finding against the live page before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a campaign whose page you already know, with cases written in advance: a price that differs between ad and page, a delivery term that ends before launch, a mobile view that drops an offer, a form with more fields than your limit, a state nobody captured. The acquisition owner checks every finding against the live page before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,9 +96,9 @@ Testing in your environment means running it on a campaign whose page you alread
 ## Related workflow templates
 
 - [Campaign build sheet](../campaign-build-sheet/)
-- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)
-- [Campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)
+- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check)
+- [Campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-ad-to-page-check&from=gh-advertising-ad-to-page-check).

@@ -1,10 +1,17 @@
 # Stale promotion code review
 
-Before the next campaign, the marketing or e-commerce manager gets one review of the store's discount codes: every expired, unused or duplicate code, the live and scheduled campaigns that still name each one, and a proposed action for a person to approve. It ends, deletes and changes nothing.
+Review a store's expired, unused and duplicate discount codes against the campaigns that still name them, with a proposal for a person to approve.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stale-promotion-code-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Stale promotion code review on our website](https://fullypowered.ai/workflows/stale-promotion-code-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/stale-promotion-code-review/?from=gh-stale-promotion-code-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stale-promotion-code-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review)*
 
 ## The outcome
 
@@ -39,15 +46,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where an ad that sends shoppers to a code that no longer works wastes the spend behind it.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where welcome emails, banners and creator posts keep naming codes long after anyone remembers making them.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where every season, partner and apology adds another code to the store.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where codes printed on packaging and handed to creators outlive the campaigns that made them.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency tidies a client's codes before launching a campaign of its own.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where years of codes have piled up and nobody is sure which are safe to end.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more channels and partners mean more codes than one person can hold in mind.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), where an ad that sends shoppers to a code that no longer works wastes the spend behind it.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), where welcome emails, banners and creator posts keep naming codes long after anyone remembers making them.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), where every season, partner and apology adds another code to the store.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), where codes printed on packaging and handed to creators outlive the campaigns that made them.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), where an agency tidies a client's codes before launching a campaign of its own.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), where years of codes have piled up and nobody is sure which are safe to end.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), when more channels and partners mean more codes than one person can hold in mind.
 
-It sits beside [affiliate onboarding](https://fullypowered.ai/workflows/affiliate-onboarding/), which checks a new partner's code before it goes out, and [creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/), which checks the code in each published post. Setting up a new campaign is the [campaign build sheet](https://fullypowered.ai/workflows/campaign-build-sheet/), and a price below list for one customer is the [discount request review](https://fullypowered.ai/workflows/discount-request-review/).
+It sits beside [affiliate onboarding](https://fullypowered.ai/workflows/affiliate-onboarding/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), which checks a new partner's code before it goes out, and [creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), which checks the code in each published post. Setting up a new campaign is the [campaign build sheet](https://fullypowered.ai/workflows/campaign-build-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review), and a price below list for one customer is the [discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review).
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ It sits beside [affiliate onboarding](https://fullypowered.ai/workflows/affiliat
 
 FullyPowered AI wrote this workflow template from its own published map of e-commerce and retail work. It was editorially reviewed on 11 November 2026. It was tried on its invented example on 11 November 2026 in Claude; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past export your e-commerce manager knows well, plus hard cases written in advance: an export with a renamed column, a code that ends on the campaign's last day, an unused code a scheduled campaign still needs, a campaign that names a code in different letter case, a code used often with no last-use date. The e-commerce manager checks every state and every date against the store before anyone approves a change. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past export your e-commerce manager knows well, plus hard cases written in advance: an export with a renamed column, a code that ends on the campaign's last day, an unused code a scheduled campaign still needs, a campaign that names a code in different letter case, a code used often with no last-use date. The e-commerce manager checks every state and every date against the store before anyone approves a change. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,11 +96,11 @@ Testing in your environment means running it on a past export your e-commerce ma
 
 ## Related workflow templates
 
-- [Affiliate onboarding](https://fullypowered.ai/workflows/affiliate-onboarding/)
-- [Creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/)
+- [Affiliate onboarding](https://fullypowered.ai/workflows/affiliate-onboarding/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review)
+- [Creator publication tracking](https://fullypowered.ai/workflows/creator-publication-tracking/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review)
 - [Campaign build sheet](../campaign-build-sheet/)
-- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/)
+- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-stale-promotion-code-review&from=gh-stale-promotion-code-review).

@@ -1,10 +1,17 @@
 # Lead quality pattern review
 
-When sales feedback or results raise a lead-quality concern, the acquisition lead gets a review of leads and their outcomes by source, page, location, device and timing, with cases to verify with sales and possible measurement faults listed.
+Leads set beside their outcomes by source, page, location, device and timing, with cases for sales to verify and measurement faults listed. People decide.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-quality-pattern-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Lead quality pattern review on our website](https://fullypowered.ai/workflows/lead-quality-pattern-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lead-quality-pattern-review/?from=gh-lead-quality-pattern-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-quality-pattern-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review)*
 
 ## The outcome
 
@@ -36,16 +43,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where a lead is paid for before anyone knows whether it was worth having.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), which owns the conversion definitions and the records behind them.
-- [Sales](https://fullypowered.ai/functions/sales/), whose contact with the leads is the only check on what the numbers suggest.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an account lead has to answer a client when leads disappoint.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where demo requests arrive from many sources and sales soon has views on them.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where each enquiry is a real person to call and a poor batch is felt at once.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when budgets and channels have multiplied faster than anyone has checked them.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the same programs have run for years and nobody has looked at their outcomes lately.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review), where a lead is paid for before anyone knows whether it was worth having.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review), which owns the conversion definitions and the records behind them.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review), whose contact with the leads is the only check on what the numbers suggest.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review), where an account lead has to answer a client when leads disappoint.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review), where demo requests arrive from many sources and sales soon has views on them.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review), where each enquiry is a real person to call and a poor batch is felt at once.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review), when budgets and channels have multiplied faster than anyone has checked them.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review), where the same programs have run for years and nobody has looked at their outcomes lately.
 
-It is not a handover audit of someone else's campaign account ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)), a field-by-field look at a form ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)), or an explanation of why two reports disagree ([metric definition reconciliation](https://fullypowered.ai/workflows/metric-definition-reconciliation/)).
+It is not a handover audit of someone else's campaign account ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review)), a field-by-field look at a form ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review)), or an explanation of why two reports disagree ([metric definition reconciliation](https://fullypowered.ai/workflows/metric-definition-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review)).
 
 ## What has to change for your company
 
@@ -61,7 +68,7 @@ It is not a handover audit of someone else's campaign account ([inherited campai
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record is published with it (the run was not blind: only its arithmetic was independent); it was edited in small ways after an independent review, and those edits were not run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past period your acquisition lead and sales team already know well, with cases written in advance: an outcome word on no list, a segment too small to read, a lead id sales mentions that is not in the export, a repeated record. Your analyst checks every figure against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past period your acquisition lead and sales team already know well, with cases written in advance: an outcome word on no list, a segment too small to read, a lead id sales mentions that is not in the export, a repeated record. Your analyst checks every figure against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -88,10 +95,10 @@ Testing in your environment means running it on a past period your acquisition l
 
 ## Related workflow templates
 
-- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)
-- [Metric definition reconciliation](https://fullypowered.ai/workflows/metric-definition-reconciliation/)
-- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/)
+- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review)
+- [Metric definition reconciliation](https://fullypowered.ai/workflows/metric-definition-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review)
+- [Tracking event plan](https://fullypowered.ai/workflows/tracking-event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-lead-quality-pattern-review&from=gh-lead-quality-pattern-review).

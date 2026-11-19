@@ -1,10 +1,17 @@
 # Promotional text campaign plan
 
-Before a promotional text campaign goes out, the marketing lead gets one plan: draft messages built only from the approved offer, the eligible audience as your own consent records define it, how often each person would be texted, the opt-out path and every open question. A person approves and sends.
+Plan an SMS campaign for approval: draft messages from the approved offer, the audience your consent records allow, frequency, opt-out and open questions.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/promotional-text-campaign-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Promotional text campaign plan on our website](https://fullypowered.ai/workflows/promotional-text-campaign-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/promotional-text-campaign-plan/?from=gh-promotional-text-campaign-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/promotional-text-campaign-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan)*
 
 ## The outcome
 
@@ -33,16 +40,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where a text campaign joins the paid and email plans for an offer.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the team that writes the offer wants every short message to say only what is true.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a sale weekend or a restock is worth a text to customers who asked for them.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where loyalty members and online buyers sit in one list with different consent histories.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where a quiet midweek night or a seasonal menu is announced to guests who signed up for offers.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency plans a client's text campaign and the client approves it.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when texting starts to matter and nobody has written the rules down yet.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when years of sign-up forms have left consent records in several shapes.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan), where a text campaign joins the paid and email plans for an offer.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan), where the team that writes the offer wants every short message to say only what is true.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan), where a sale weekend or a restock is worth a text to customers who asked for them.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan), where loyalty members and online buyers sit in one list with different consent histories.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan), where a quiet midweek night or a seasonal menu is announced to guests who signed up for offers.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan), where an agency plans a client's text campaign and the client approves it.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan), when texting starts to matter and nobody has written the rules down yet.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan), when years of sign-up forms have left consent records in several shapes.
 
-It does not write emails ([email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/)), check an email audience record by record ([campaign audience check](https://fullypowered.ai/workflows/campaign-audience-check/)) or choose which lapsed customers to win back ([lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/)). It starts with an approved offer and ends with a plan ready for approval.
+It does not write emails ([email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan)), check an email audience record by record ([campaign audience check](https://fullypowered.ai/workflows/campaign-audience-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan)) or choose which lapsed customers to win back ([lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan)). It starts with an approved offer and ends with a plan ready for approval.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Write your text messaging policy down if it is not already: which consent status
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example on 11 November 2026 in Claude; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past text campaign whose problems you already know: a status your policy does not name, a number on two records, a contact who opted out but still shows as subscribed, a send time after your window closes. The person who keeps the consent records recomputes every count before the plan is relied on. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a past text campaign whose problems you already know: a status your policy does not name, a number on two records, a contact who opted out but still shows as subscribed, a send time after your window closes. The person who keeps the consent records recomputes every count before the plan is relied on. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,9 +87,9 @@ Testing in your environment means running it on a past text campaign whose probl
 ## Related workflow templates
 
 - [Campaign audience check](../campaign-audience-check/)
-- [Email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/)
-- [Lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/)
+- [Email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan)
+- [Lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-promotional-text-campaign-plan&from=gh-promotional-text-campaign-plan).

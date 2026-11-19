@@ -1,10 +1,17 @@
 # Search exclusion conflict check
 
-The paid search specialist gets a list of live keywords that a live exclusion may be blocking, each with the level where the exclusion applies and the campaign intent it touches. They are clues from the text; the specialist decides what to change.
+Find live keywords that a live exclusion may be blocking, with the level and campaign intent. They are clues; the specialist decides what to change.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/search-exclusion-conflict-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Search exclusion conflict check on our website](https://fullypowered.ai/workflows/search-exclusion-conflict-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/search-exclusion-conflict-check/?from=gh-search-exclusion-conflict-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/search-exclusion-conflict-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check)*
 
 ## The outcome
 
@@ -40,13 +47,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where keyword and exclusion lists are maintained by several hands.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agencies inherit long lists and inherit the reasons for them too.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where exclusions added for a sale, a stock gap or a retired range outlive the reason.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where several people add exclusions to protect the brand and the brand's own searches can end up in the way.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the account has outgrown anyone's memory of why each exclusion exists.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check), where keyword and exclusion lists are maintained by several hands.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check), where agencies inherit long lists and inherit the reasons for them too.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check), where exclusions added for a sale, a stock gap or a retired range outlive the reason.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check), where several people add exclusions to protect the brand and the brand's own searches can end up in the way.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check), when the account has outgrown anyone's memory of why each exclusion exists.
 
-It is not a campaign report ([client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/)) and it is not a review of an inherited account ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)). It reads no results and judges no performance.
+It is not a campaign report ([client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check)) and it is not a review of an inherited account ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check)). It reads no results and judges no performance.
 
 ## What has to change for your company
 
@@ -61,7 +68,7 @@ It is not a campaign report ([client campaign performance report](https://fullyp
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, on an earlier wording of the instructions; the record is published beside it. The wording has since been clarified and has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an account your specialist knows well, with cases written in advance: an exclusion added on purpose that sits across a keyword, a shared list attached to only one campaign, a paused exclusion, a keyword in a paused campaign, a header that does not match. The specialist checks every conflict against the account's own records before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on an account your specialist knows well, with cases written in advance: an exclusion added on purpose that sits across a keyword, a shared list attached to only one campaign, a paused exclusion, a keyword in a paused campaign, a header that does not match. The specialist checks every conflict against the account's own records before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -88,10 +95,10 @@ Testing in your environment means running it on an account your specialist knows
 
 ## Related workflow templates
 
-- [Inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)
-- [Client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/)
-- [Campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/)
+- [Inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check)
+- [Client campaign performance report](https://fullypowered.ai/workflows/client-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check)
+- [Campaign claim evidence register](https://fullypowered.ai/workflows/campaign-claim-evidence-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-search-exclusion-conflict-check&from=gh-search-exclusion-conflict-check).

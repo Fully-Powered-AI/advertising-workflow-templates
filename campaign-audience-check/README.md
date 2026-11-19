@@ -1,10 +1,17 @@
 # Campaign audience check
 
-When an audience export is ready for review, the campaign owner gets it segmented with reconciled counts, the exclusions applied and the records whose contact status needs checking, with conflicts, stale records and duplicates kept visible.
+Review an email audience export with reconciled counts, exclusions applied and records to check. The campaign owner decides; nothing is sent.
 
-*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-audience-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Campaign audience check on our website](https://fullypowered.ai/workflows/campaign-audience-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/campaign-audience-check/?from=gh-advertising-campaign-audience-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Advertising and lead generation · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/campaign-audience-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check)*
 
 ## The outcome
 
@@ -35,15 +42,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where an audience is built, reviewed and approved before it is used.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the team that writes the message wants to know exactly who it is going to.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency reviews a client's audience before a send.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where buyers, newsletter sign-ups and event contacts sit in the same list.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where lists grow from many sources and preferences change often.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the list is growing faster than anyone can keep track of it.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when years of imports have left a list nobody fully trusts.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check), where an audience is built, reviewed and approved before it is used.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check), where the team that writes the message wants to know exactly who it is going to.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check), where an agency reviews a client's audience before a send.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check), where buyers, newsletter sign-ups and event contacts sit in the same list.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check), where lists grow from many sources and preferences change often.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check), when the list is growing faster than anyone can keep track of it.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check), when years of imports have left a list nobody fully trusts.
 
-It does not choose who to win back ([lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/)), build a list of prospects ([prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/)) or set up the campaign itself ([campaign build sheet](https://fullypowered.ai/workflows/campaign-build-sheet/)). It starts when a list already exists and ends with a checked audience.
+It does not choose who to win back ([lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check)), build a list of prospects ([prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check)) or set up the campaign itself ([campaign build sheet](https://fullypowered.ai/workflows/campaign-build-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check)). It starts when a list already exists and ends with a checked audience.
 
 ## What has to change for your company
 
@@ -80,10 +87,10 @@ Testing in your environment means running it on a past audience whose problems y
 
 ## Related workflow templates
 
-- [Lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/)
-- [Prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/)
+- [Lapsed-customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check)
+- [Prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check)
 - [Campaign build sheet](../campaign-build-sheet/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=advertising-campaign-audience-check&from=gh-advertising-campaign-audience-check).
